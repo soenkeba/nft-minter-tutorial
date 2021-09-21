@@ -4,6 +4,9 @@ This repository contains the starter files (`minter-starter-files`) and complete
 
 ## ℹ️ About the tutorial
 
+Test online
+
+
 In this beginner-level tutorial, we'll teach you how to connect your smart contract to your React dApp project by building an NFT Minter using Metamask and Web3. 
 
 ## 🤔 Note
